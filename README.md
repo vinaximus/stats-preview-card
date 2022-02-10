@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/vinaximus/stats-preview-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://vinaximus.github.io/stats-preview-card/)
 
 ## My process
 I started with the desktop version, after that I used media queries to make it compatible with mobile also
